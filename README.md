@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MR. Htun Ar Kar. You can call me Zon Ni, my nickname.
-- 👀 I’m interested in Computer Vision, Machine Learning, Deep Learning and Image Processing
-- 🌱 I’m currently learning at King Mongkut's University of Technology Thonburi (KMUTT)
-- 💞️ I’m looking to collaborate on Deep Learning Projects, especially in Liveness Detection and Super Resolution
+- 👀 I’m interested in Image Processing, Computer Vision, Machine Learning, Deep Learning and Natural Language Processing.
+- 🌱 I’m currently studying at King Mongkut's University of Technology Thonburi (KMUTT).
+- 💞️ My research area is in Artifact and Distortion Aware Speech Enhancement for Automatic Speech Recognition.
 - 📫 How to reach me by htunarkar@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
